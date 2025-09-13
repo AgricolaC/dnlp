@@ -1,0 +1,28 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.12
+
+# Jupyter environment
+jupyter
+notebook
+
+# Machine learning
+scikit-learn>=1.3
+
+# NLP fundamentals
+nltk>=3.8
+spacy>=3.7
+
+# Deep learning frameworks
+torch>=2.0
+tensorflow>=2.15  # optional, can remove if sticking only to PyTorch
+
+# Hugging Face ecosystem
+transformers>=4.40
+datasets>=2.18
+accelerate>=0.28
+
+# Utilities
+tqdm>=4.66
