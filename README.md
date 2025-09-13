@@ -33,3 +33,18 @@ All personal study notes (Zettelkasten in Obsidian) remain private — this repo
    ```bash
    git clone https://github.com/<your-username>/DNLP-Studies.git
    cd DNLP-Studies
+2. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+
+---
+
+## 📌 Status
+
+This repo is in active development. Expect incremental commits as I progress through the semester.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License
